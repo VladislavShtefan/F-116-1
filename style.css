@@ -1,0 +1,17 @@
+body {
+    margin: 50px 112px;
+    
+    background-color: #E5E5E5;
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #1E0606;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #434343;
+    color: #E5E5E5;
+}
+
